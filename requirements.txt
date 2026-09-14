@@ -1,0 +1,9 @@
+pymunk>=7.0
+networkx>=3.4
+numpy>=1.26
+scipy>=1.13
+pandas>=2.2
+matplotlib>=3.9
+streamlit>=1.60
+anthropic>=1.0
+python-dotenv>=1.0
