@@ -77,4 +77,4 @@ worth knowing about:
 
 ## Team
 
-Built by [Your Name], Ahmed, and Syed for the AI Infra Summit Hackathon.
+Built by Sobia Noor, Ahmed, and Syed for the AI Infra Summit Hackathon.
