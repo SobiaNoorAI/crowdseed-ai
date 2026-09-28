@@ -1,4 +1,4 @@
-# crowdseed-ai# CrowdSeed AI
+# CrowdSeed AI
 
 **Multi-agent evolutionary robot design, with LLM agents standing in for a human crowd.**
 
@@ -8,7 +8,7 @@ Built for the [AI Infra Summit Hackathon](https://lablab.ai) (online track), Sep
 
 A reproduction of the core experiment from:
 
-> A research paper
+A research paper
 
 In the original paper, human participants designed 2D robot bodies on a 5x5
 grid of dots. One group (**Social**) could see other users' designs while
